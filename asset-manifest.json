@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cell-life/static/css/main.e14f1e96.chunk.css",
+    "main.js": "/cell-life/static/js/main.17c1c2a3.chunk.js",
+    "main.js.map": "/cell-life/static/js/main.17c1c2a3.chunk.js.map",
+    "runtime-main.js": "/cell-life/static/js/runtime-main.7b53f09d.js",
+    "runtime-main.js.map": "/cell-life/static/js/runtime-main.7b53f09d.js.map",
+    "static/js/2.097f70d7.chunk.js": "/cell-life/static/js/2.097f70d7.chunk.js",
+    "static/js/2.097f70d7.chunk.js.map": "/cell-life/static/js/2.097f70d7.chunk.js.map",
+    "static/js/3.28b8b977.chunk.js": "/cell-life/static/js/3.28b8b977.chunk.js",
+    "static/js/3.28b8b977.chunk.js.map": "/cell-life/static/js/3.28b8b977.chunk.js.map",
+    "index.html": "/cell-life/index.html",
+    "static/css/main.e14f1e96.chunk.css.map": "/cell-life/static/css/main.e14f1e96.chunk.css.map",
+    "static/js/2.097f70d7.chunk.js.LICENSE.txt": "/cell-life/static/js/2.097f70d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b53f09d.js",
+    "static/js/2.097f70d7.chunk.js",
+    "static/css/main.e14f1e96.chunk.css",
+    "static/js/main.17c1c2a3.chunk.js"
+  ]
+}
