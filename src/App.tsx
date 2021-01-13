@@ -73,7 +73,7 @@ function App() {
       removeInterval();
     }
     else {
-      setChangeInterval(setInterval(() => setCellArray(previousArray => getNextState(previousArray)), 1000))
+      setChangeInterval(setInterval(() => setCellArray(previousArray => getNextState(previousArray)), 100))
     }
   }, [removeInterval, interval])
 
